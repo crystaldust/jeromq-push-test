@@ -1,4 +1,6 @@
-package com.example.jeromqpushtest;
+package lance.pushtesting;
+
+import com.example.jeromqpushtest.R;
 
 import android.os.Bundle;
 import android.app.Activity;
